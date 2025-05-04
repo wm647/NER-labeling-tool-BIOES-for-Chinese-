@@ -1,4 +1,4 @@
-his is an easy BIOES labeling tool for Chinese NER problem based on python. Run the tagging file and you can label it. 
+This is an easy BIOES labeling tool for Chinese NER problem based on python. Run the tagging file and you can label it. 
 The output format is "Token|||BIOES", while you can change it through coding.
 An example is shown below, click “加载下一句”, then tokens are seperated, and you can tag them respectively.
 ![image](https://github.com/user-attachments/assets/fa2be41e-5c69-4940-b802-c4346346dca5)
